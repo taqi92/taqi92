@@ -50,9 +50,7 @@
 
 ### 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)
-- [Twitter](https://twitter.com/YOUR-HANDLE)
-- [Portfolio Website](https://YOUR-WEBSITE.com) _(optional)_
+- [LinkedIn](https://www.linkedin.com/in/t-t-tanzil/)
 
 ---
 
