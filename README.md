@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Tanzil — Flutter Developer & Tech Explorer 🌍 | 🇧🇩 Based in Bangladesh
+# 👋 Hello, I'm Tanzil — Mobile App Developer & Tech Explorer 🌍 | 🇧🇩 Based in Bangladesh
 
 🚀 Turning ideas into performant mobile apps with clean code and creative UI  
 💼 Currently crafting apps at **Truly PTE LTD** | 🇸🇬 Based in Singapore
