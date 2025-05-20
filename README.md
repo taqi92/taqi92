@@ -1,21 +1,50 @@
-# 👋 Greetings, I am Taqi Tahmid Tanzil 🌿
+# 👋 Hello, I'm Tanzil — Flutter Developer & Tech Explorer 🌍 | 🇧🇩 Based in Bangladesh
 
-- 💻 Working as a **Senior Mobile Developer** at **Truely Global Pte**
-- 👀 Interested in **Flutter**, **Dart**, **Android development**, and **Cloud engineering**
-- 🌱 Currently diving deeper into **Linux** and **DevOps** practices
-- 🌸 Passionate about crafting **clean and efficient mobile applications**
-- ⚽ MMA/UFC fan & football enthusiast
+🚀 Turning ideas into performant mobile apps with clean code and creative UI  
+💼 Currently crafting apps at **Truly PTE LTD** | 🇸🇬 Based in Singapore
 
 ---
 
-## 🔥 Skills & Interests
+## 🌱 About Me
 
-- **📱 Mobile App Development**: Creating scalable, high-performance apps for Android and iOS using Flutter & Dart
-- **⚒️ Cross-Platform Development**: Expertise in Flutter for single codebase applications
-- **🔗 Backend Integration**: Experienced with REST APIs & Firebase for dynamic app functionalities
-- **⚙️ State Management**: Hands-on with BloC, Provider, Riverpod 2.0, and GetX
-- **🐧 Linux Enthusiast**: Exploring Linux for development & automation
-- **🚀 DevOps Aspirant**: Learning Docker, CI/CD, and cloud deployment strategies
+I'm **Tanzil**, a seasoned **Mobile Application Developer** with over **7 years of experience** delivering top-notch apps for **Android**, **iOS**, and **Flutter** platforms.
+
+- 💻 Currently building and maintaining scalable mobile apps at **Truly PTE LTD**
+- 📱 Expert in **Flutter**, **Android (Jetpack Compose)**, and **iOS (Swift)**
+- 👥 Experienced in **leading teams**, managing development workflows, and delivering complete project lifecycles
+- 🧭 Certified **Scrum Master**, practicing Agile methodologies for smooth team coordination
+- 🌍 Enthusiastic about **localization** (Replixica) & building globally adaptable apps
+- ☁️ Exploring **cloud-native** mobile solutions with **Codemagic**, **CI/CD pipelines**, and DevOps practices
+- 🐍 Knowledgeable in **Python**, used for scripting, backend utilities, and automation
+
+---
+
+## 💡 Featured Skills
+
+- 📱 **Mobile Development**
+  - Flutter & Dart (Cross-platform)
+  - Native Android (Java/Kotlin) & Jetpack Compose
+  - iOS (Swift)
+
+- 🧩 **Architecture & Project Management**
+  - Clean architecture, modular codebases
+  - Agile & Scrum (Certified Scrum Master)
+  - Team & project leadership
+
+- 🔌 **Backend & Services**
+  - REST APIs, Firebase (Auth, Firestore, Messaging, Storage)
+  - Firebase Functions, cloud-based integration
+
+- 🧠 **State Management & Testing**
+  - Bloc, GetX, Provider
+  - Unit & widget testing, performance profiling
+
+- ☁️ **DevOps & Tooling**
+  - Git, GitHub Actions, CI/CD pipelines
+  - Docker basics, Linux shell scripting
+
+- 🐍 **Python Scripting**
+  - For automation, backend utilities, and experimentation (Basic)
 
 ---
 
@@ -31,20 +60,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" />
+  <img src ="[https://images.app.goo.gl/Ltijfyb281JvVUea6](https://wiki.agileana.com/images/4/45/Certified_Scrum_Master_%28CSM%29_certification_badge.png)">
 </p>
 
 ---
 
 ## 🧪 Recent Projects
 
-- **🛍️ E-Commerce App**  
-  Flutter-based app integrated with Firebase for real-time data and smooth UX.
+- ** 📶 Truely E-sim**  
+  Flutter-based e-sim app for ensuring unlimited internet anywhere,anytime.
 
-- **🏋️ Fitness Tracker**  
-  Fitness tracking app with charts and custom notifications.
+- ** 🏥 Dexulin**  
+  Native android based BMI tracking app with charts and custom notifications specially for diabetic patients.
 
-- **🎵 Music Player**  
-  Background audio player built using `just_audio_background`.
+- ** 🤖 AI Solutions**  
+  Background enabled AI Sensored forklift controller app for navigation & digging proper place.
 
 ---
 
