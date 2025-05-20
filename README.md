@@ -19,7 +19,7 @@ I'm **Tanzil**, a seasoned **Mobile Application Developer** with over **7 years 
 
 ---
 
-## 💡 Featured Skills
+### 💡 Featured Skills
 
 - 📱 **Mobile Development**
   - Flutter & Dart (Cross-platform)
@@ -48,7 +48,7 @@ I'm **Tanzil**, a seasoned **Mobile Application Developer** with over **7 years 
 
 ---
 
-## 🛠️ Tools & Technologies
+#### 🛠️ Tools & Technologies
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" alt="Dart" height="40" />
@@ -60,25 +60,33 @@ I'm **Tanzil**, a seasoned **Mobile Application Developer** with over **7 years 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" />
-  <img src ="[https://images.app.goo.gl/Ltijfyb281JvVUea6](https://wiki.agileana.com/images/4/45/Certified_Scrum_Master_%28CSM%29_certification_badge.png)">
+  <img src ="https://miro.medium.com/v2/resize:fit:1400/1*_xsAVKi5G0AzK7INXcma7w.png" alt="Csm" height="40">
 </p>
 
 ---
 
-## 🧪 Recent Projects
+##### 🧪 Recent Projects
 
-- ** 📶 Truely E-sim**  
+- 📶 **Truely E-sim**  
   Flutter-based e-sim app for ensuring unlimited internet anywhere,anytime.
 
-- ** 🏥 Dexulin**  
+- 🏥 **Dexulin**  
   Native android based BMI tracking app with charts and custom notifications specially for diabetic patients.
 
-- ** 🤖 AI Solutions**  
+- 🤖 **AI Solutions**  
   Background enabled AI Sensored forklift controller app for navigation & digging proper place.
 
 ---
 
-### 📫 Let's Connect
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=taqi92&show_icons=true&theme=radical&count_private=true" alt="Tanzil's GitHub Stats" height="180"/>
+</p>
+
+---
+
+###### 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/t-t-tanzil/)
 
